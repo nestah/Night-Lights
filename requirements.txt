@@ -1,1 +1,2 @@
 you'll need a google earth engine account to set up EE-projects
+set up here https://earthengine.google.com/
